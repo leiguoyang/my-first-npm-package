@@ -1,0 +1,11 @@
+{
+  "name": "my-first-npm-package",
+  "version": "1.0.0",
+  "description": "This is my first npm package, I use it to learn the npm workflow, \u001b[C\u001b[for example, how to manage my code, how to modulize my code, how to work with my potential team members",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leiguoyang guoyangl@126.com http://leiguoyang.com",
+  "license": "ISC"
+}
